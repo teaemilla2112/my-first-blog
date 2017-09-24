@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'w!phfrfx@6!2)j@+l#yh0(v%1c9&9%-(=f4!rjnc*k=ltpvzbs'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','teaemilla2112.pythonanywhere.com']
 
 
 # Application definition
